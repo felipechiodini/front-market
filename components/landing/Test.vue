@@ -3,7 +3,7 @@
     <div class="flex gap-2">
       <img
         src="~/assets/img/hero.png"
-        alt="Imagem sistema de delivery rapid eats"
+        alt="imagem de uma pessoa levando um prato na mesa"
         loading="eager"
         width="512"
         height="512"

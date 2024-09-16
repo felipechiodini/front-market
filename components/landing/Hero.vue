@@ -15,7 +15,7 @@ const go = () => {
       <img
         class="rounded-full"
         src="~/assets/img/hero.png"
-        alt="Imagem sistema de delivery rapid eats"
+        alt="imagem de uma pessoa levando um prato na mesa"
         loading="eager"
         format="avif"
         width="512"
